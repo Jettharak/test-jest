@@ -1,0 +1,19 @@
+{
+  "name": "jest_cict_workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+      "test": "jest",
+      "test-coverage": "jest --coverage",
+      "test-watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
